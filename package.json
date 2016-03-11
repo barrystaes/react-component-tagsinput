@@ -1,0 +1,25 @@
+{
+  "name": "react-component-tagsinput",
+  "version": "0.0.1",
+  "description": "Simple (standalone) input component for tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barrystaes/react-component-tagsinput.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "tags",
+    "input"
+  ],
+  "author": "Barry Staes <npmjs@barrystaes.nl> (http://barrystaes.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrystaes/react-component-tagsinput/issues"
+  },
+  "homepage": "https://github.com/barrystaes/react-component-tagsinput"
+}
