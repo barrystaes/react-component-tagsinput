@@ -1,0 +1,23 @@
+/* example */
+
+.clickyText {
+	cursor: pointer !important;
+}
+
+.tagsInput {
+	height: auto;
+	cursor: text;
+	.tags {
+		.tag {
+			background-color: #8CF;
+			padding: 0.25em 0.5em;
+			border-radius: 0.25em;
+			margin: 0.25em 0.25em 0 0;
+			float: left;
+			cursor: default;
+		}
+		.input {
+			float: left;
+		}
+	}
+}
