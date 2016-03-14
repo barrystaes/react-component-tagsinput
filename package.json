@@ -11,10 +11,9 @@
     "url": "https://github.com/barrystaes/react-component-tagsinput.git"
   },
   "keywords": [
-    "react",
-    "component",
+    "react-component",
     "tags",
-    "input"
+    "labels"
   ],
   "author": "Barry Staes <npmjs@barrystaes.nl> (http://barrystaes.nl)",
   "license": "ISC",
